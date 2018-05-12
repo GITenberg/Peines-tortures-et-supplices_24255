@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24255#Peines-tortures-et-supplices
 gutenberg_bookshelf: FR Droit et Justice
 gutenberg_issued: '2008-01-12'
 gutenberg_type: Text
